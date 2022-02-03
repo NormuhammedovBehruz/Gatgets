@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+
+h1:hover {
+  color: yellow;
+}
+
+h1:active {
+  color: blue;
+}
+/*# sourceMappingURL=main.css.map */

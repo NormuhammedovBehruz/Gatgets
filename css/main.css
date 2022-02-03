@@ -1,0 +1,105 @@
+/* Global */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: blue;
+}
+
+.container {
+    max-width: 1300px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.site-header {
+    background-color: #fff;
+    max-width: 1100px;
+    padding: 50px 10px;
+}
+
+.site-header-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.heroo-header {
+    margin-bottom: 20px;
+    margin-right: 70px;
+}
+
+.hero-header {
+    margin-right: 70px;
+}
+
+.hero-img {
+    margin-bottom: 40px;
+}
+
+.hero-h1 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.hero-text {
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.hero-sup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heroooo-h1 {
+    margin: 0;
+}
+
+.hero-ttext {
+    margin: 0;
+}
+
+.heroo-img {
+    margin-bottom: 30px;
+}
+
+.heroo-h1 {
+    margin: 0;
+}
+
+.hero-texxt {
+    letter-spacing: 1px;
+}
+
+.herooo-img {
+    margin-bottom: 30px;
+}
+
+.herooo-h1 {
+    margin: 0;
+}
+
+.hero-textt {
+    letter-spacing: 1px;
+}
